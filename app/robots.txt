@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepngewek.pages.dev/sitemap.xml
